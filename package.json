@@ -1,0 +1,35 @@
+{
+  "name": "website-logo",
+  "version": "0.0.0",
+  "description": "Fetch a websites icons, logos and theme color",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "icon",
+    "favicon",
+    "logo",
+    "theme",
+    "color",
+    "fluid",
+    "opengraph",
+    "theme-color",
+    "themecolor"
+  ],
+  "main": "lib/logo",
+  "dependencies": {
+    "jsdom": "~9.8.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/jhermsmeier/node-website-logo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-website-logo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-website-logo/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
