@@ -1,6 +1,6 @@
 {
   "name": "website-logo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fetch a websites icons, logos and theme color",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
   "license": "MIT",
