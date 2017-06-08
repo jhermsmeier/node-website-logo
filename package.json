@@ -18,7 +18,7 @@
   ],
   "main": "lib/logo",
   "dependencies": {
-    "jsdom": "^9.10.0"
+    "jsdom": "^11.0.0"
   },
   "devDependencies": {},
   "homepage": "https://github.com/jhermsmeier/node-website-logo",
@@ -30,6 +30,6 @@
     "url": "https://github.com/jhermsmeier/node-website-logo/issues"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   }
 }
