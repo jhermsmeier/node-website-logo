@@ -16,9 +16,10 @@
     "theme-color",
     "themecolor"
   ],
-  "main": "lib/logo",
+  "main": "lib/logo.js",
   "dependencies": {
-    "jsdom": "^15.1.1"
+    "htmlparser2": "^4.0.0",
+    "simple-get": "^3.1.0"
   },
   "devDependencies": {},
   "homepage": "https://github.com/jhermsmeier/node-website-logo",
