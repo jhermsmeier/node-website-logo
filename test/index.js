@@ -8,6 +8,6 @@ function inspect( value ) {
   })
 }
 
-websiteLogo( URL, function( error, images ) {
-  console.log( inspect( error || images ) )
+websiteLogo( URL, function( error, info ) {
+  console.log( inspect( error || info ) )
 })
